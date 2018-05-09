@@ -1,4 +1,4 @@
-# NumberGuesser
+# numberguesser
 
 Guess a number by asking seemingly pointless questions to the user.
 
